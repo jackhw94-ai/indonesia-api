@@ -1,0 +1,472 @@
+{
+  "data": [
+    {
+      "code": "1101",
+      "name": "SIMEULUE"
+    },
+    {
+      "code": "1102",
+      "name": "ACEH SINGKIL"
+    },
+    {
+      "code": "1103",
+      "name": "ACEH SELATAN"
+    },
+    {
+      "code": "1104",
+      "name": "ACEH TENGGARA"
+    },
+    {
+      "code": "1105",
+      "name": "ACEH TIMUR"
+    },
+    {
+      "code": "1106",
+      "name": "ACEH TENGAH"
+    },
+    {
+      "code": "1107",
+      "name": "ACEH BARAT"
+    },
+    {
+      "code": "1108",
+      "name": "ACEH BESAR"
+    },
+    {
+      "code": "1109",
+      "name": "PIDIE"
+    },
+    {
+      "code": "1110",
+      "name": "BIREUEN"
+    },
+    {
+      "code": "1111",
+      "name": "ACEH UTARA"
+    },
+    {
+      "code": "1112",
+      "name": "ACEH BARAT DAYA"
+    },
+    {
+      "code": "1113",
+      "name": "GAYO LUES"
+    },
+    {
+      "code": "1114",
+      "name": "ACEH TAMIANG"
+    },
+    {
+      "code": "1115",
+      "name": "NAGAN RAYA"
+    },
+    {
+      "code": "1116",
+      "name": "ACEH JAYA"
+    },
+    {
+      "code": "1117",
+      "name": "BENER MERIAH"
+    },
+    {
+      "code": "1118",
+      "name": "PIDIE JAYA"
+    },
+    {
+      "code": "1171",
+      "name": "BANDA ACEH"
+    },
+    {
+      "code": "1172",
+      "name": "SABANG"
+    },
+    {
+      "code": "1173",
+      "name": "LANGSA"
+    },
+    {
+      "code": "1174",
+      "name": "LHOKSEUMAWE"
+    },
+    {
+      "code": "1175",
+      "name": "SUBULUSSALAM"
+    },
+    {
+      "code": "1201",
+      "name": "NIAS"
+    },
+    {
+      "code": "1202",
+      "name": "MANDAILING NATAL"
+    },
+    {
+      "code": "1203",
+      "name": "TAPANULI SELATAN"
+    },
+    {
+      "code": "1204",
+      "name": "TAPANULI TENGAH"
+    },
+    {
+      "code": "1205",
+      "name": "TAPANULI UTARA"
+    },
+    {
+      "code": "1206",
+      "name": "TOBA"
+    },
+    {
+      "code": "1207",
+      "name": "LABUHANBATU"
+    },
+    {
+      "code": "1208",
+      "name": "ASAHAN"
+    },
+    {
+      "code": "1209",
+      "name": "SIMALUNGUN"
+    },
+    {
+      "code": "1210",
+      "name": "DAIRI"
+    },
+    {
+      "code": "1211",
+      "name": "KARO"
+    },
+    {
+      "code": "1212",
+      "name": "DELI SERDANG"
+    },
+    {
+      "code": "1213",
+      "name": "LANGKAT"
+    },
+    {
+      "code": "1214",
+      "name": "NIAS SELATAN"
+    },
+    {
+      "code": "1215",
+      "name": "HUMBANG HASUNDUTAN"
+    },
+    {
+      "code": "1216",
+      "name": "PAKPAK BHARAT"
+    },
+    {
+      "code": "1217",
+      "name": "SAMOSIR"
+    },
+    {
+      "code": "1218",
+      "name": "SERDANG BEDAGAI"
+    },
+    {
+      "code": "1219",
+      "name": "BATU BARA"
+    },
+    {
+      "code": "1220",
+      "name": "PADANG LAWAS UTARA"
+    },
+    {
+      "code": "1221",
+      "name": "PADANG LAWAS"
+    },
+    {
+      "code": "1222",
+      "name": "LABUHANBATU SELATAN"
+    },
+    {
+      "code": "1223",
+      "name": "LABUHANBATU UTARA"
+    },
+    {
+      "code": "1224",
+      "name": "NIAS UTARA"
+    },
+    {
+      "code": "1225",
+      "name": "NIAS BARAT"
+    },
+    {
+      "code": "1271",
+      "name": "SIBOLGA"
+    },
+    {
+      "code": "1272",
+      "name": "TANJUNGBALAI"
+    },
+    {
+      "code": "1273",
+      "name": "PEMATANGSIANTAR"
+    },
+    {
+      "code": "1274",
+      "name": "TEBING TINGGI"
+    },
+    {
+      "code": "1275",
+      "name": "MEDAN"
+    },
+    {
+      "code": "1276",
+      "name": "BINJAI"
+    },
+    {
+      "code": "1277",
+      "name": "PADANGSIDIMPUAN"
+    },
+    {
+      "code": "1278",
+      "name": "GUNUNGSITOLI"
+    },
+    {
+      "code": "1301",
+      "name": "KEPULAUAN MENTAWAI"
+    },
+    {
+      "code": "1302",
+      "name": "PESISIR SELATAN"
+    },
+    {
+      "code": "1303",
+      "name": "SOLOK"
+    },
+    {
+      "code": "1304",
+      "name": "SIJUNJUNG"
+    },
+    {
+      "code": "1305",
+      "name": "TANAH DATAR"
+    },
+    {
+      "code": "1306",
+      "name": "PADANG PARIAMAN"
+    },
+    {
+      "code": "1307",
+      "name": "AGAM"
+    },
+    {
+      "code": "1308",
+      "name": "LIMA PULUH KOTA"
+    },
+    {
+      "code": "1309",
+      "name": "PASAMAN"
+    },
+    {
+      "code": "1310",
+      "name": "SOLOK SELATAN"
+    },
+    {
+      "code": "1311",
+      "name": "DHARMASRAYA"
+    },
+    {
+      "code": "1312",
+      "name": "PASAMAN BARAT"
+    },
+    {
+      "code": "1371",
+      "name": "PADANG"
+    },
+    {
+      "code": "1372",
+      "name": "SOLOK"
+    },
+    {
+      "code": "1373",
+      "name": "SAWAHLUNTO"
+    },
+    {
+      "code": "1374",
+      "name": "PADANG PANJANG"
+    },
+    {
+      "code": "1375",
+      "name": "BUKITTINGGI"
+    },
+    {
+      "code": "1376",
+      "name": "PAYAKUMBUH"
+    },
+    {
+      "code": "1377",
+      "name": "PARIAMAN"
+    },
+    {
+      "code": "1401",
+      "name": "KUANTAN SINGINGI"
+    },
+    {
+      "code": "1402",
+      "name": "INDRAGIRI HULU"
+    },
+    {
+      "code": "1403",
+      "name": "INDRAGIRI HILIR"
+    },
+    {
+      "code": "1404",
+      "name": "PELALAWAN"
+    },
+    {
+      "code": "1405",
+      "name": "SIAK"
+    },
+    {
+      "code": "1406",
+      "name": "KAMPAR"
+    },
+    {
+      "code": "1407",
+      "name": "ROKAN HULU"
+    },
+    {
+      "code": "1408",
+      "name": "BENGKALIS"
+    },
+    {
+      "code": "1409",
+      "name": "ROKAN HILIR"
+    },
+    {
+      "code": "1410",
+      "name": "KEPULAUAN MERANTI"
+    },
+    {
+      "code": "1471",
+      "name": "PEKANBARU"
+    },
+    {
+      "code": "1473",
+      "name": "DUMAI"
+    },
+    {
+      "code": "1501",
+      "name": "KERINCI"
+    },
+    {
+      "code": "1502",
+      "name": "MERANGIN"
+    },
+    {
+      "code": "1503",
+      "name": "SAROLANGUN"
+    },
+    {
+      "code": "1504",
+      "name": "BATANG HARI"
+    },
+    {
+      "code": "1505",
+      "name": "MUARO JAMBI"
+    },
+    {
+      "code": "1506",
+      "name": "TANJUNG JABUNG TIMUR"
+    },
+    {
+      "code": "1507",
+      "name": "TANJUNG JABUNG BARAT"
+    },
+    {
+      "code": "1508",
+      "name": "TEBO"
+    },
+    {
+      "code": "1509",
+      "name": "BUNGO"
+    },
+    {
+      "code": "1571",
+      "name": "JAMBI"
+    },
+    {
+      "code": "1572",
+      "name": "SUNGAI PENUH"
+    },
+    {
+      "code": "1601",
+      "name": "OGAN KOMERING ULU"
+    },
+    {
+      "code": "1602",
+      "name": "OGAN KOMERING ILIR"
+    },
+    {
+      "code": "1603",
+      "name": "MUARA ENIM"
+    },
+    {
+      "code": "1604",
+      "name": "LAHAT"
+    },
+    {
+      "code": "1605",
+      "name": "MUSI RAWAS"
+    },
+    {
+      "code": "1606",
+      "name": "MUSI BANYUASIN"
+    },
+    {
+      "code": "1607",
+      "name": "BANYU ASIN"
+    },
+    {
+      "code": "1608",
+      "name": "OGAN KOMERING ULU SELATAN"
+    },
+    {
+      "code": "1609",
+      "name": "OGAN KOMERING ULU TIMUR"
+    },
+    {
+      "code": "1610",
+      "name": "OGAN ILIR"
+    },
+    {
+      "code": "1611",
+      "name": "EMPAT LAWANG"
+    },
+    {
+      "code": "1612",
+      "name": "PENUKAL ABAB LEMATANG ILIR"
+    },
+    {
+      "code": "1613",
+      "name": "MUSI RAWAS UTARA"
+    },
+    {
+      "code": "1671",
+      "name": "PALEMBANG"
+    },
+    {
+      "code": "1672",
+      "name": "PRABUMULIH"
+    },
+    {
+      "code": "1673",
+      "name": "PAGAR ALAM"
+    },
+    {
+      "code": "1674",
+      "name": "LUBUKLINGGAU"
+    },
+    {
+      "code": "9708",
+      "name": "PEGUNUNGAN BINTANG"
+    }
+  ],
+  "meta": {
+    "administrative_area_level": 2,
+    "updated_at": "2025-11-11"
+  }
+}
