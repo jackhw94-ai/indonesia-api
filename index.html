@@ -558,9 +558,9 @@
         try {
             // Ambil data secara paralel menggunakan fetch API
             const [resProvinsi, resKabupaten, resKecamatan] = await Promise.all([
-                fetch(PROVINSI_URL),
-                fetch(KABUPATEN_URL),
-                fetch(KECAMATAN_URL)
+                fetch('https://raw.githubusercontent.com/jackhw94-ai/indonesia-api/refs/heads/main/api/kabupaten.php'),
+                fetch('https://raw.githubusercontent.com/jackhw94-ai/indonesia-api/refs/heads/main/api/kabupaten.php'),
+                fetch('https://raw.githubusercontent.com/jackhw94-ai/indonesia-api/refs/heads/main/api/kecamatan.php')
             ]);
 
             const dataProvinsi = await resProvinsi.json();
@@ -624,6 +624,7 @@
 
 </body>
 </html>
+
 
 
 
