@@ -2,7 +2,7 @@
 header('Content-Type: application/json; charset=utf-8');
 
 // Path file JSON
-$path = __DIR__ . '/provinsi.json';
+$path = 'https://github.com/jackhw94-ai/indonesia-api/blob/main/api/provinsi/provinsi.json';
 
 if (!file_exists($path)) {
     echo json_encode([
@@ -21,3 +21,4 @@ echo json_encode([
     'total' => count($data),
     'data' => $data
 ], JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+
